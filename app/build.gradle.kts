@@ -71,7 +71,7 @@ dependencies {
     implementation(libs.places)
     implementation(libs.play.services.maps)
 
-// Jetpack Compose
-    implementation(libs.androidx.activity.compose)
+// Google maps Compose
+    implementation(libs.maps.compose)
 
 }

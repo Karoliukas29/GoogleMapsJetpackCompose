@@ -9,6 +9,7 @@ lifecycleRuntimeKtx = "2.8.4"
 composeBom = "2024.04.01"
 
 activityCompose = "1.9.1"
+mapsCompose = "4.3.3"
 places = "3.5.0"
 playServicesMaps = "19.0.0"
 
@@ -29,6 +30,7 @@ androidx-material3 = { group = "androidx.compose.material3", name = "material3" 
 
 androidx-activity-compose = { group = "androidx.activity", name = "activity-compose", version.ref = "activityCompose" }
 
+maps-compose = { module = "com.google.maps.android:maps-compose", version.ref = "mapsCompose" }
 places = { module = "com.google.android.libraries.places:places", version.ref = "places" }
 play-services-maps = { module = "com.google.android.gms:play-services-maps", version.ref = "playServicesMaps" }
 

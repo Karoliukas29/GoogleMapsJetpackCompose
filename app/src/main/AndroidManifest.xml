@@ -2,6 +2,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
+
+
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -25,7 +28,7 @@
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAjOKXEcyeaykrZoRcbw9ih5HKotM5WDzcY"/>
+            android:value="AIzaSyAjOKXEcyeaykrZoRcbw9ih5HKotM5WDzc"/>
 
 
     </application>
