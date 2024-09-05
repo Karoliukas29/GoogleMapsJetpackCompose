@@ -74,4 +74,7 @@ dependencies {
 // Google maps Compose
     implementation(libs.maps.compose)
 
+    implementation(libs.timber)
+
+
 }
