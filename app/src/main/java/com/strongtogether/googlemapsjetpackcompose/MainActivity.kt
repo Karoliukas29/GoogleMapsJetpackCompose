@@ -24,7 +24,6 @@ class MainActivity() : ComponentActivity() {
         if (!Places.isInitialized() && apiKey != null) {
             Places.initialize(applicationContext, apiKey)
         }
-
         enableEdgeToEdge()
         setContent {
                 MaterialTheme {
